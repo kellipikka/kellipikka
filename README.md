@@ -11,6 +11,7 @@ I'm a **Computer Science student** at **TalTech**.
 - 🛠️ I’m currently working on a **personal web page** and a **Habit Tracker website** for myself.
 - 🎯 In my free time, I enjoy **playing discgolf** and **sewing**.
 - 🔍 Fun fact: I started learning programming less than a year ago.
+- 🗣️ **Spoken Languages:** Estonian (Native), English (C2 Proficiency)
 
 ### Skills
 
