@@ -32,4 +32,4 @@ Feel free to check out my repositories and reach out if you want to collaborate 
 
 ---
 
-![Kelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Kelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellipikka&show_icons=true&theme=radical)
